@@ -1,2 +1,1 @@
-# Python-Projects-
-Just another repository
+# Python-Projects
